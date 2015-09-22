@@ -1,0 +1,1 @@
+This is the 'hello world' exercise from http://phaser.io/tutorials/getting-started/part6.
